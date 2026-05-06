@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+    border: 10px solid bisque;
+    padding: 20px;
+    background-color: bisque;
+}
+.btn{
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.result{
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
